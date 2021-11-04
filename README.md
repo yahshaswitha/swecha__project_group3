@@ -7,7 +7,7 @@ One of the biggest challenges that the covid pandemic introduced in our lives wa
 
 ## Website
 
-The link for the website: 
+The link for the website: https://yahshaswitha.github.io/swecha__project_group3/
 
 
 ## Tech Stack
